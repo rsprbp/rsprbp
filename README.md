@@ -1,6 +1,8 @@
 # 💫 About Me:
 Current Project:<br><br>Lead Developer - Europa Roleplay SA:MP (Europa-RP.com)<br><br>⇨ 10+ years gameserver management & development<br>⇨ Rage:MP (MafiaCityRP/ORP) developer<br>⇨ SA:MP CnR (SFC) contributor<br>⇨ FiveM FantasyDrift former owner<br>⇨ SAMP U2Freeroam developer<br>
 
+<p>I love to play around with technology and find new ways to reinvent the wheel. ;D</p>
+
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zrlv) 
