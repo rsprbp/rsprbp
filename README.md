@@ -1,5 +1,5 @@
 # 💫 About Me:
-(Tech)<br><br>⇨ Reverse Engineering (ARM64/x86)<br>⇨ Full-Stack Webdev<br>⇨ Game Hacking<br>⇨ Looking to pwn MacOS eventually<br><br>(Gameservers)<br><br>⇨ 10+ years gameserver management & development <br>⇨ Rage:MP (MafiaCityRP/ORP) developer<br>⇨ SA:MP CnR (SFC) contributor<br>⇨ FiveM FantasyDrift former owner<br>⇨ Minecraft FlowMC former owner<br><br>⇨ Spades 1968 Project Manager<br><br><br>I love to play around with technology and find new ways to reinvent the wheel ;D
+(Tech)<br><br>⇨ Reverse Engineering (ARM64/x86)<br>⇨ Full-Stack Webdev<br>⇨ Game Hacking<br>⇨ Looking to pwn MacOS eventually<br><br>(Gameservers)<br><br>⇨ 10+ years gameserver management & development <br>⇨ Rage:MP (MafiaCityRP/ORP) developer<br>⇨ SA:MP CnR (SFC) contributor<br>⇨ FiveM FantasyDrift former owner<br>⇨ Minecraft FlowMC former owner<br>⇨ Spades 1968 Project Manager<br><br>I love to play around with technology and find new ways to reinvent the wheel ;D
 
 
 ## 🌐 Socials:
