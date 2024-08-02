@@ -45,4 +45,4 @@ Open to both short-term and long-term collaborations. I do require some form of 
 
 Let's connect on Discord: rsprbp
 
-© 2023 rsprbp
+© 2024 rsprbp
