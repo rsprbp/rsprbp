@@ -1,16 +1,20 @@
-## Hi there 👋
+🎮 Game Development & Digital Innovation Studio
 
-<!--
-**rsprbp/rsprbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pushing boundaries in game development, network optimization, and digital experiences. 
+Specializing in high-performance systems, custom physics engines, and advanced networking solutions.
 
-Here are some ideas to get you started:
+🔧 Core Focus:
+• Custom Game Engine Development
+• Network Architecture Optimization
+• Real-time Systems & Physics
+• WebGL/Three.js Performance
+• Growth Algorithm Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Notable Projects:
+• FantasyDrift - Advanced Racing Simulation
+• Spades1968 - Custom Voxel War Game Engine
+• R3M Network Intelligence Platform
+
+自由想像 | Imagine Freely.
+
+terror.gg
